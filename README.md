@@ -8,8 +8,6 @@
 [![HTSL](https://img.shields.io/badge/HTSL-blue?style=for-the-badge)](https://github.com/BusterBrown1218/HTSL)
 [![Housing Editor](https://img.shields.io/badge/Housing%20Editor-blue?style=for-the-badge)](https://housingeditor.com)
 
-I am a dedicated Minecraft developer and love playing **Hypixel Housing**!
-
 My Website: https://bytebukkit.github.io
 
 ---
@@ -22,3 +20,11 @@ My Website: https://bytebukkit.github.io
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bytebukkit&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+---
+
+<img width="200" height="24" alt="Neues Projekt (4)" src="https://github.com/user-attachments/assets/d69bdf4f-c4fa-4116-a323-46fd7420585a" />
+
+I am a dedicated Minecraft developer and love playing **Hypixel Housing**!
+
+I'm happy to contribute as much as possible in **YOUR** Mods and Projects related with *minecraft*!
